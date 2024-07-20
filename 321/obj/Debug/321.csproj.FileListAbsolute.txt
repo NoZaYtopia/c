@@ -1,0 +1,12 @@
+C:\Users\Саша\Desktop\321\bin\Debug\321.exe.config
+C:\Users\Саша\Desktop\321\bin\Debug\321.exe
+C:\Users\Саша\Desktop\321\bin\Debug\321.pdb
+C:\Users\Саша\Desktop\321\obj\Debug\321.csproj.AssemblyReference.cache
+C:\Users\Саша\Desktop\321\obj\Debug\321.csproj.SuggestedBindingRedirects.cache
+C:\Users\Саша\Desktop\321\obj\Debug\_321.Form1.resources
+C:\Users\Саша\Desktop\321\obj\Debug\_321.Properties.Resources.resources
+C:\Users\Саша\Desktop\321\obj\Debug\321.csproj.GenerateResource.cache
+C:\Users\Саша\Desktop\321\obj\Debug\321.csproj.CoreCompileInputs.cache
+C:\Users\Саша\Desktop\321\obj\Debug\321.exe
+C:\Users\Саша\Desktop\321\obj\Debug\321.pdb
+C:\Users\Саша\Desktop\321\obj\Debug\_321.Form2.resources
